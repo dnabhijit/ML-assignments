@@ -1,1 +1,1 @@
-# ML-assignments
+# Machine Learning Bootcamp Assignments
